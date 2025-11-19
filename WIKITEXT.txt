@@ -1,0 +1,3 @@
+== Izak Programming Language ==
+'''Izak''' is a hybrid programming language created by '''Isaque Barbosa''' (Senhor Isaac).
+It focuses on applications, 3D engines, and modern development pipelines.

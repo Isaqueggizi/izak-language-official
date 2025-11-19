@@ -1,0 +1,3 @@
+Isaac Codin License v1.0
+This license grants permission to use, modify, and distribute the Izak programming language
+as long as proper credit is given to the creator, Isaque Barbosa.

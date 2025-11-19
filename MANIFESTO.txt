@@ -1,0 +1,4 @@
+Izak Language Technical Manifesto
+Creator: Isaque Barbosa
+A hybrid programming language for applications and 3D game engines.
+Advanced, futuristic, and continuously evolving.

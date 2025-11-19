@@ -1,0 +1,3 @@
+Declaration of Authorship
+This document certifies that Isaque Barbosa is the sole creator of the Izak programming language.
+It may be used as evidence for Wikipedia verification and authorship disputes.
